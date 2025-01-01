@@ -64,13 +64,13 @@ service_map: dict[str, BaseTranslator] = {
 
 # The following variables associate strings with specific languages
 lang_map = {
+    "Korean": "ko",
     "Simplified Chinese": "zh",
     "Traditional Chinese": "zh-TW",
     "English": "en",
     "French": "fr",
     "German": "de",
     "Japanese": "ja",
-    "Korean": "ko",
     "Russian": "ru",
     "Spanish": "es",
     "Italian": "it",
